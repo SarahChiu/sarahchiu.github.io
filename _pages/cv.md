@@ -32,14 +32,14 @@ Research Projects
 ====== 
 * Motion Planning for Autonomous Suturing
   * Advised by Professor Michael Yip @ ARCLab, UCSD
-  * Developing an optimization-based method for suture motion planning
+  * Developing and testing an autonomous suturing framework, including perception, planning, and control 
 
 * Bimanual Regrasping for Suture Needles ([Paper](https://arxiv.org/abs/2011.04813), [Video](https://www.youtube.com/watch?v=da9ir9lnwSA))
   * Advised by Professor Michael Yip @ ARCLab, UCSD
   * Proposed ego-centric state/action spaces and mixed exploration strategy for reinforcement learning (RL) to learn a generalizable policy for suture needle regrasping
   * Achieved 97% success rate in simulation and 73.3%/90.5% success rate in real-robot experiments
 
-* Parallelized Reverse Curriculum Generation
+* Parallelized Reverse Curriculum Generation ([Paper](https://arxiv.org/abs/2108.02128))
   * Advised by Professor Hung-Yi Lee and Professor Li-Chen Fu @ AiROBO, NTU
   * Improved reverse curriculum generation by training multiple actor-critic (AC) pairs and swapping their critics periodically
   * Achieved better convergence and generality, and the proposed method is applied to several robotic manipulation tasks

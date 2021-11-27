@@ -34,7 +34,13 @@ Research Projects
   * Advised by Professor Michael Yip @ ARCLab, UCSD
   * Developing and testing an autonomous suturing framework, including perception, planning, and control 
 
-* Bimanual Regrasping for Suture Needles ([Paper](https://arxiv.org/abs/2011.04813), [Video](https://www.youtube.com/watch?v=da9ir9lnwSA))
+* Suture Needle 6D Pose Tracking ([Paper](https://arxiv.org/abs/2109.12722), [Video](https://www.youtube.com/watch?v=qpp2ucKn76Q))
+  * Advised by Professor Michael Yip @ ARCLab, UCSD
+  * Proposed a novel observation model for Bayesian filters to track a markerless suture needle
+  * Derived the approximation for the covariance of the observation noise, making Bayesian filters more robust to the uncertainty in the detections
+  * Achieved tracking error of 1.5mm in position and 1 degree in orientation
+
+* Bimanual Regrasping for Suture Needles ([Paper](https://ieeexplore.ieee.org/abstract/document/9561673), [Video](https://www.youtube.com/watch?v=da9ir9lnwSA))
   * Advised by Professor Michael Yip @ ARCLab, UCSD
   * Proposed ego-centric state/action spaces and mixed exploration strategy for reinforcement learning (RL) to learn a generalizable policy for suture needle regrasping
   * Achieved 97% success rate in simulation and 73.3%/90.5% success rate in real-robot experiments

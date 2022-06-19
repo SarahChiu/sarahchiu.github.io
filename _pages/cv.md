@@ -36,9 +36,9 @@ Research Projects
 
 * Suture Needle 6D Pose Tracking ([Paper](https://arxiv.org/abs/2109.12722), [Video](https://www.youtube.com/watch?v=qpp2ucKn76Q))
   * Advised by Professor Michael Yip @ ARCLab, UCSD
-  * Proposed a novel observation model for Bayesian filters to track a markerless suture needle
-  * Derived the approximation for the covariance of the observation noise, making Bayesian filters more robust to the uncertainty in the detections
-  * Achieved tracking error of 1.5mm in position and 1 degree in orientation
+  * Tracked the 6D pose of suture needles with particle filter under different scenarios, including ex vivo environments.
+  * Proposed three observation models based on the circular geometry of suture needles, and derived the noise variance for one of the models.
+  * Experimental results demonstrated that our proposed method outperforms previous ones and is robust under occlusion and complex backgrounds.
 
 * Bimanual Regrasping for Suture Needles ([Paper](https://ieeexplore.ieee.org/abstract/document/9561673), [Video](https://www.youtube.com/watch?v=da9ir9lnwSA))
   * Advised by Professor Michael Yip @ ARCLab, UCSD
@@ -64,9 +64,23 @@ Term Projects
 * Automatic Piano Accompaniment Robot ([Report](https://drive.google.com/file/d/0B6A-IUXDGma0M25MdnQ1VGttWHc/view?resourcekey=0-cbsItrJelHF49CwEKhTqyw), [Video](https://drive.google.com/file/d/0B6A-IUXDGma0c1B3YVBsQnN5LXM/view?resourcekey=0-gBMFOvC4RXL5FVrLA0ETNA))
   * Advised by Professor Li-Chen Fu @ CSIE Department, NTU
   * Used LEGO EV3 to build a robot, and implemented retrieval by singing and humming as well as trajectory planning in Matlab
-  
+
+Honors and Awards
+======
+* 2022 Grace Hopper Celebration Student Scholarship
+* 2022 Inclusion@RSS Program Fellowship
+* 2016 The 24th Conference on Automation Technology College Student Paper Contest, Second Place
+* 2016 Innovate Asia Design Contest Outstanding Achievement Award
+
+Academic Service
+======
+* Program Committee, ICLR 2022 Workshop on Generalizable Policy Learning in the Physical World
+* Reviewer, IEEE International Conference on Robotics and Automation (ICRA)
+* Reviewer, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+
 Skills
 ======
 * **Programming Languages**: Python, C++, Matlab, Android Development, Java, System Verilog
-* **API and Toolkits**: Tensorflow, PyTorch, V-REP, Gazebo, PyBullet, OpenCV, OpenPose, Oculus, LaTex
+* **API and Toolkits**: Tensorflow, PyTorch, CoppeliaSim, Gazebo, PyBullet, OpenCV, OpenPose, Oculus, LaTex
 * **Operating System**: Linux, ROS, NAOqi, Windows
+* **Languages**: Mandarin (native), English (proficient), Japanese (basic)

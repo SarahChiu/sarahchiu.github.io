@@ -3,6 +3,6 @@ title: "Representing Data as Atoms: Unifying Intra- and Inter-Sample Relationshi
 collection: publications
 author: 'Yi-Lin Tuan, <b>Zih-Yun Chiu</b>, William Yang Wang'
 year: 2023
-venue: 'Under Submission At: 2023 Conference on Neural Information Processing Systems (NeurIPS).'
+venue: 'Under Submission'
 preprint: 'Y'
 ---

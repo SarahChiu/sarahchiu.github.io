@@ -19,7 +19,7 @@ author_profile: true
 
 ---
 
-# Preprint
+# Preprint and Under Submission
 
 {% for post in site.publications reversed %}
   {% if post.preprint == 'Y' %}

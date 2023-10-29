@@ -18,6 +18,7 @@ My research interests lie in surgical robotics, surgical task automation, roboti
 
 ## News
 
+- Sep. 2023: Our paper on [Flexible Attention-Based Multi-Policy Fusion for Efficient Deep Reinforcement Learning](https://arxiv.org/abs/2210.03729) is accepted to NeurIPS 2023! 
 - Jun. 2023: I will join Amazon Robotics in Massachusetts as an applied scientist summer intern (hosted by Yash Oza and Sara Nambi)! 
 - Jun. 2023: Our paper on *Finding Biomechanically Safe Trajectories for Robot Manipulation of the Human Body in a Search and Rescue Scenario* is accepted to IROS 2023!
 - Jun. 2023: Our extended abstract [Real-Time Constrained Pose Tracking of An In-Hand Suture Needle with Robust Uncertainty Estimation for Autonomous Robotic Surgery](https://drive.google.com/file/d/1RAigOFOKQ8a55ZNQgvBuLf8fBz-A3Tqw/view) won **first place in best poster awards** at ICRA 2023's workshop: [New Evolutions in Surgical Robotics: Embracing Multimodal Imaging Guidance, Intelligence, and Bio-inspired Mechanisms](https://sites.google.com/view/icra2023workshop-surgicalrobot/)!

@@ -1,5 +1,5 @@
 ---
-title: "Simulations for time-optimal trajectory planning along parametric polynomial lane-change curves for a unicycle"
+title: "Simulations for Time-Optimal Trajectory Planning along Parametric Polynomial Lane-Change Curves for A Unicycle"
 collection: publications
 author: 'Chien-Sheng Wu, <b>Zih-Yun Chiu</b>, Jing-Sin Liu'
 year: 2017

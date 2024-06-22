@@ -44,11 +44,11 @@
       {{ post.author }}
       <br> <i>{{ post.venue }}</i>, {{ post.year }}
       {% if post.paperurl and post.videourl and post.codeurl %}
-        <br> <a href="{{ post.paperurl }}"><u>paper</u></a>, <a href="{{ post.videourl }}"><u>video</u></a>, <a href="{{ post.codeurl }}"><u>code</u></a>
+        <br> <a href="{{ post.paperurl }}">paper</a>, <a href="{{ post.videourl }}">video</a>, <a href="{{ post.codeurl }}">code</a>
       {% elsif post.paperurl and post.videourl %}
-        <br> <a href="{{ post.paperurl }}"><u>paper</u></a>, <a href="{{ post.videourl }}"><u>video</u></a>
+        <br> <a href="{{ post.paperurl }}">paper</a>, <a href="{{ post.videourl }}">video</a>
       {% elsif post.paperurl %}
-        <br> <a href="{{ post.paperurl }}"><u>paper</u></a>
+        <br> <a href="{{ post.paperurl }}">paper</a>
       {% endif %}
     </p>
 

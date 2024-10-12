@@ -1,5 +1,5 @@
 ---
-title: "Real-Time Constrained 6D Object-Pose Tracking of An In-Hand Suture Needle for Minimally Invasive Robotic Surgery *(Outstanding Healthcare and Medical Robotics Paper)*"
+title: "Real-Time Constrained 6D Object-Pose Tracking of An In-Hand Suture Needle for Minimally Invasive Robotic Surgery *(Best Paper Award in Healthcare and Medical Robotics)*"
 collection: publications
 author: '<b>Zih-Yun Chiu</b>, Florian Richter, Michael C. Yip'
 year: 2023

@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : zihyunchiu
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zih-Yun (Sarah) Chiu"
   avatar           : "zihyunchiu.png"
-  bio              : "PhD Candidate at University of California San Diego"
+  bio              : "Incoming Assistant Professor at Johns Hopkins University | PhD, UC San Diego"
   location         : "La Jolla, California"
   employer         :
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "zihyunchiu"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

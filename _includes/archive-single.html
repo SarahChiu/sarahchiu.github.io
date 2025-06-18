@@ -14,7 +14,11 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
+    <div class="archive_item-box">
+    <div class="archive__item-teaser">
+        <img src="{{ post.thumbnail }}" />
+    </div>
+    <!--{% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
           {% if teaser contains "://" %}
@@ -24,20 +28,25 @@
           {% endif %}
           alt="">
       </div>
-    {% endif %}
+      {% endif %}-->
 
+    <div class="archive_item-text">
     {% if post.permalink %}
-      <h2 class="archive__item-title" itemprop="headline">
+      <!--<h2 class="archive__item-title" itemprop="headline">-->
+      <h3 class="archive__item-title" itemprop="headline">
         {% if post.link %}
           <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
         {% else %}
           <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
         {% endif %}
-      </h2>
+      </h3>
+      <!--</h2>-->
     {% else %}
-      <h2>
+      <!--<h2>-->
+      <h3>
         {{ title }}
-      </h2>
+      </h3>
+      <!--</h2>-->
     {% endif %}
     
     <p>
@@ -51,6 +60,8 @@
         <br> <a href="{{ post.paperurl }}">paper</a>
       {% endif %}
     </p>
+    </div>
+    </div>
 
   </article>
 </div>

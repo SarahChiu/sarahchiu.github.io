@@ -51,7 +51,8 @@ $blue                       : #1E90FF;/*#0000FF;*/
 
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
+$darker-gray                : mix(#000, $gray, 80%);
+/*$darker-gray                : mix(#000, $gray, 60%);*/
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 

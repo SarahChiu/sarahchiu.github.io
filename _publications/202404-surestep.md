@@ -3,7 +3,7 @@ title: "SURESTEP: An Uncertainty-Aware Trajectory Optimization Framework to Enha
 collection: publications
 author: 'Nikhil U. Shinde*, <b>Zih-Yun Chiu*</b>, Florian Richter, Jason Lim, Yuheng Zhi, Sylvia Herbert, Michael C. Yip'
 year: 2024
-venue: 'Accepted in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
-paperurl: 'https://arxiv.org/abs/2404.00123'
+venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10801845'
 preprint: 'N'
 ---

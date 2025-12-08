@@ -10,11 +10,13 @@ redirect_from:
 
 # About me \[[CV](https://drive.google.com/file/d/1Gfp_ewX_yVNotA5ggA7l7CMtVjRXgmer/view?usp=sharing)\]
 
-**I will join [the Department of Computer Science at Johns Hopkins University](https://www.cs.jhu.edu/) as a tenure-track assistant professor starting in Fall 2025. I am actively recruiting students at all levels (undergraduate, master's, and Ph.D.)! If you are interested in joining my research group, please read [this page](/contact/) and contact me by email.**
+**If you are interested in joining us as a PhD student, please apply to the [CS PhD program](https://www.cs.jhu.edu/academic-programs/graduate-studies/phd-program/) by December 15, 2025!**
+
+**I am actively recruiting students at all levels (undergraduate, master's, and Ph.D.)! If you are interested in joining my research group, please read [this page](/contact/) and contact me by email.**
 
 ---
 
-I am an incoming assistant professor at the Department of Computer Science at Johns Hopkins University. 
+I am a tenure-track assistant professor in the [Department of Computer Science](https://www.cs.jhu.edu/). I am also a member of the [Johns Hopkins Data Science and AI Institute](https://ai.jhu.edu/) and the [Laboratory for Computational Sensing and Robotics](https://lcsr.jhu.edu/).
 I received my Ph.D. in Electrical and Computer Engineering at the University of California San Diego, where I was advised by [Michael Yip](https://yip.eng.ucsd.edu/).
 
 My goal is to develop the next generation of intelligent robots that can **see, plan, move, and learn** as skilled medical professionals. 
@@ -30,6 +32,8 @@ I aim to answer these questions from the following two perspectives:
 
 ## News
 
+- Aug. 2025: Our paper on [Incremental RL for Automating Multiple Surgical Tasks](https://ieeexplore.ieee.org/abstract/document/11223235) is accepted to RA-L! 
+- Aug. 2025: I joined JHU CS as an assistant professor!
 - Jun. 2025: I will attend [RSS at USC](https://roboticsconference.org/). 
 - Jun. 2025: I successfully defended my PhD dissertation, **Advancing Robot Sensing, Planning, and Adaptability for Autonomous Medical Interventions**! 
 - Apr. 2025: I was selected as [an RSS Pioneer](https://sites.google.com/view/rsspioneers2025/participants?authuser=0)! 
@@ -37,5 +41,3 @@ I aim to answer these questions from the following two perspectives:
 - Sep. 2024: Our paper on [Incremental RL for Automating Multiple Surgical Tasks](https://arxiv.org/abs/2409.15651) is now published. 
 - Jul. 2024: Our paper on [SURESTEP: An Uncertainty-Aware Trajectory Optimization Framework to Enhance Visual Tool Tracking for Robust Surgical Automation](https://arxiv.org/abs/2404.00123) is accepted to IROS 2024! 
 - Apr. 2024: Our paper on [Uncertainty-Aware Trajectory Optimization for Robust Surgical Automation](https://arxiv.org/abs/2404.00123) is now published. 
-- Dec. 2023: We release the implementation of [Knowledge-Grounded RL algorithms](https://proceedings.neurips.cc/paper_files/paper/2023/file/2c23b3c72127e15fedc276722faee927-Paper-Conference.pdf) on [GitHub](https://github.com/Pascalson/KGRL).
-- Sep. 2023: Our paper on [Flexible Attention-Based Multi-Policy Fusion for Efficient Deep Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/2c23b3c72127e15fedc276722faee927-Paper-Conference.pdf) is accepted to NeurIPS 2023! 

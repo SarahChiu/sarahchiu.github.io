@@ -26,8 +26,10 @@ If you are interested in applying for a fully funded PhD position, please includ
   <li>An up-to-date university transcripts</li>
   <li>A brief statement of your research interests and goals</li>
   <li>(Optional) A link to your personal website or portfolio</li>
+  <li><b>Note</b>: Please avoid using personal email addresses, e.g., Gmail, to contact, as they tend to be identified as spam.</li>
+  <li><b>Note</b>: Due to a high volume of emails, I will not be able to reply to individual inquiries about whether I am recruiting PhD students for this cycle. (I am!)
+</li>
 </ul>
-
 
 <h2>MSE and BS Students</h2>
 <p>
@@ -37,5 +39,6 @@ If you are interested in doing research and are looking for potential advisors, 
   <li>CV</li>
   <li>An up-to-date university transcripts</li>
   <li>(Optional) A link to your personal website or portfolio</li>
+  <li><b>Note</b>: I can only advise MSE/BS students who are already admitted to JHU.</li>
 </ul>
 </div>

@@ -6,4 +6,5 @@ year: 2023
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10342353'
 preprint: 'N'
+thumbnail: /images/publications/peiros2023finding.png
 ---

@@ -6,4 +6,5 @@ year: 2023
 venue: 'IEEE Conference on Robotics and Automation (ICRA)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10160746'
 preprint: 'N'
+thumbnail: /images/publications/lin2022semantic.png
 ---

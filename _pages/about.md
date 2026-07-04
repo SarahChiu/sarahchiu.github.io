@@ -10,8 +10,6 @@ redirect_from:
 
 # About me \[[CV](https://drive.google.com/file/d/1Gfp_ewX_yVNotA5ggA7l7CMtVjRXgmer/view?usp=sharing)\]
 
-**If you are interested in joining us as a PhD student, please apply to the [CS PhD program](https://www.cs.jhu.edu/academic-programs/graduate-studies/phd-program/) by December 15, 2025!**
-
 **I am actively recruiting students at all levels (undergraduate, master's, and Ph.D.)! If you are interested in joining my research group, please read [this page](/contact/) and contact me by email.**
 
 ---
@@ -32,12 +30,9 @@ I aim to answer these questions from the following two perspectives:
 
 ## News
 
+- Jun. 2026: Our paper on Autonomous Needle Pickup via Thread Manipulation is accepted to IROS 2026!
 - Aug. 2025: Our paper on [Incremental RL for Automating Multiple Surgical Tasks](https://ieeexplore.ieee.org/abstract/document/11223235) is accepted to RA-L! 
 - Aug. 2025: I joined JHU CS as an assistant professor!
 - Jun. 2025: I will attend [RSS at USC](https://roboticsconference.org/). 
 - Jun. 2025: I successfully defended my PhD dissertation, **Advancing Robot Sensing, Planning, and Adaptability for Autonomous Medical Interventions**! 
 - Apr. 2025: I was selected as [an RSS Pioneer](https://sites.google.com/view/rsspioneers2025/participants?authuser=0)! 
-- Oct. 2024: I will attend [the Rising Stars in EECS Workshop](https://risingstars-eecs.mit.edu/) at MIT!
-- Sep. 2024: Our paper on [Incremental RL for Automating Multiple Surgical Tasks](https://arxiv.org/abs/2409.15651) is now published. 
-- Jul. 2024: Our paper on [SURESTEP: An Uncertainty-Aware Trajectory Optimization Framework to Enhance Visual Tool Tracking for Robust Surgical Automation](https://arxiv.org/abs/2404.00123) is accepted to IROS 2024! 
-- Apr. 2024: Our paper on [Uncertainty-Aware Trajectory Optimization for Robust Surgical Automation](https://arxiv.org/abs/2404.00123) is now published. 

@@ -8,4 +8,5 @@ paperurl: 'https://ieeexplore.ieee.org/abstract/document/9981966'
 videourl: 'https://drive.google.com/file/d/1qFh4_73y-nlJ2GMKMnJ7dRj_2de_c0CP/view?usp=sharing'
 codeurl: 'https://github.com/ucsdarclab/suture-needle-tracking'
 preprint: 'N'
+thumbnail: /images/publications/chiu2022markerless.png
 ---

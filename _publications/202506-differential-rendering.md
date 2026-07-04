@@ -3,7 +3,8 @@ title: "Differentiable Rendering-Based Pose Estimation for Surgical Robotic Inst
 collection: publications
 author: 'Zekai Liang, <b>Zih-Yun Chiu</b>, Florian Richter, Michael C. Yip'
 year: 2025
-venue: 'Accepted in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
-paperurl: 'https://arxiv.org/abs/2503.05953'
+venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/11245870'
 preprint: 'N'
+thumbnail: /images/publications/liang2025differentiable.png
 ---

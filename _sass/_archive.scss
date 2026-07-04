@@ -34,9 +34,14 @@
   gap: 0.5em;
 }
 
+.archive_item-text {
+  width: 700px; 
+  max-width: 100%;
+}
+
 .archive_item-text p {
   margin-top: 0.6em;
-  margin-bottom: 0;
+  margin-bottom: 1.1em;
 }
 
 .archive_item-text h3 {
@@ -86,7 +91,10 @@
   border-radius: $border-radius;
   overflow: hidden;
   img {
-    width: 10em;
+    width: 180px;
+    aspect-ratio: 135px; 
+    object-fit: cover;
+    display: block;
   }
 }
 

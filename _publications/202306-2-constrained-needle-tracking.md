@@ -7,4 +7,5 @@ venue: 'IEEE Conference on Robotics and Automation (ICRA)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10161291'
 videourl: 'https://www.youtube.com/watch?v=-pqX00hZdwE'
 preprint: 'N'
+thumbnail: /images/publications/chiu2023real.png
 ---

@@ -6,4 +6,5 @@ year: 2024
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10801845'
 preprint: 'N'
+thumbnail: /images/publications/shinde2024surestep.png
 ---

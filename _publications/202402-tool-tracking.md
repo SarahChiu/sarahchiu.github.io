@@ -6,4 +6,5 @@ year: 2024
 venue: 'IEEE Conference on Robotics and Automation (ICRA)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10610378'
 preprint: 'N'
+thumbnail: /images/publications/d2024robust.png
 ---
